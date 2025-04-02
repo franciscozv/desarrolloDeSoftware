@@ -1,4 +1,4 @@
-## Repositorio para el proyecto de Desarrollo de Software
+# Repositorio para el proyecto de Desarrollo de Software
 Nombre: Francisco Zambrano Valdés
 Profesor: Benjamin Mosso
 Semestre: 2025-1
@@ -10,4 +10,4 @@ Semestre: 2025-1
 ## Tecnologias
 Stack MERN
 
-banm99
+bamm99
