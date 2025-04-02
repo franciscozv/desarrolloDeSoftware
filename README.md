@@ -1,6 +1,7 @@
 ## Repositorio para el proyecto de Desarrollo de Software
-profesor: Benjamin Mosso
-semestre: 2025-1
+Nombre: Francisco Zambrano Valdés
+Profesor: Benjamin Mosso
+Semestre: 2025-1
 
 ## Arquitectura
 Stack MERN
