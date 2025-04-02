@@ -4,6 +4,10 @@ Profesor: Benjamin Mosso
 Semestre: 2025-1
 
 ## Arquitectura
+
+
+
+## Tecnologias
 Stack MERN
 
 banm99
